@@ -1,0 +1,17 @@
+.print-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .print-page h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .print-page p {
+    font-size: 18px;
+  }
+  

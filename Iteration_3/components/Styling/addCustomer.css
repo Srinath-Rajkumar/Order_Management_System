@@ -1,0 +1,130 @@
+/* .addcustomer-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    padding: 20px;
+    background-color: var(--card-background);
+    color: var(--text-color);
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+h1 {
+    color: var(--text-color);
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+h2 {
+    color: var(--text-color);
+    font-size: 24px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+} */
+
+/* .customer-page {
+    margin: 20px;
+    color: var(--text-color);
+  }
+  
+  .customer-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: var(--text-color);
+  }
+  
+  .customer-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+    color: var(--text-color);
+  }
+  
+  .customer-table th, .customer-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    color: var(--text-color);
+  }
+  
+  .customer-table th {
+    background-color: var(--card-background);
+  
+    font-weight: bold;
+    color: var(--text-color);
+  }
+  
+  .customer-table tr:nth-child(even) {
+    background-color: var(--card-background);
+  }
+  
+  .customer-table tr:hover {
+    background-color: var(--card-background);
+  }
+  
+  .customer-table td {
+    vertical-align: top;
+  } */
+  
+  .customer-page {
+    margin: 20px;
+  }
+  
+  .customer-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .customer-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  .customer-table th, .customer-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .customer-table th {
+    background-color: #f4f4f4;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .customer-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
+  .customer-table tr:hover {
+    background-color: #f1f1f1;
+  }
+  
+  .customer-table td {
+    vertical-align: top;
+  }
+  
+  .customer-table button {
+    margin-right: 10px;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+  .customer-table button:hover {
+    background-color: #ddd;
+  }
+  
+  .customer-table .print-address {
+    background-color: #4CAF50; /* Green */
+    color: white;
+  }
+  
+  .customer-table .edit-details {
+    background-color: #008CBA; /* Blue */
+    color: white;
+  }
+  

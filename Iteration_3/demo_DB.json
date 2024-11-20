@@ -1,0 +1,113 @@
+{
+  "customers": [
+    {
+      "id": "01",
+      "customerId": "00100",
+      "name": "Srinath",
+      "email": "srinathrajkumar.ece@gmail.com",
+      "phoneNumber": "8508789549",
+      "addressLine1": "s",
+      "addressLine2": "s",
+      "pincode": "637001",
+      "city": "NKL"
+    },
+    {
+      "id": "02",
+      "customerId": "00101",
+      "name": "Srinath2",
+      "email": "srinath@test.com",
+      "phoneNumber": "7397593749",
+      "addressLine1": "test1",
+      "addressLine2": "test1",
+      "pincode": "000001",
+      "city": "test"
+    },
+    {
+      "id": "03",
+      "customerId": "00102",
+      "name": "Srinath",
+      "email": "srinath@test.com",
+      "phoneNumber": "00000010101",
+      "addressLine1": "test1",
+      "addressLine2": "ss",
+      "pincode": "789456",
+      "city": "44"
+    }
+  ],
+  "employees": [
+    {
+      "id": "101",
+      "name": "admin",
+      "email": "admin@pb.com",
+      "number": "8508789549",
+      "role": "admin"
+    },
+    {
+      "id": "102",
+      "name": "Sathya Kumar",
+      "email": "sk@pb.com",
+      "number": "8508789549",
+      "role": "admin"
+    },
+    {
+      "id": "103",
+      "name": "Srinath",
+      "email": "srinath@pb.com",
+      "number": "8508789549",
+      "role": "employee"
+    },
+    {
+      "id": "104",
+      "name": "Vishal",
+      "email": "vishal@pb.com",
+      "number": "8508789549",
+      "role": "employee"
+    }
+  ],
+  "orders": [
+    {
+      "id": "01",
+      "orderId": "00010",
+      "customerId": "00100",
+      "orderDate": "2024-11-19T17:23:44.360Z",
+      "quantity": 555,
+      "size": "2342",
+      "price": "21231",
+      "lastDate": "2024-11-30",
+      "status": "completed"
+    },
+    {
+      "id": "02",
+      "orderId": "00011",
+      "customerId": "00101",
+      "orderDate": "2024-11-19T17:24:36.104Z",
+      "quantity": 12,
+      "size": "21",
+      "price": "12",
+      "lastDate": "2024-11-23",
+      "status": "inprogress"
+    },
+    {
+      "id": "03",
+      "orderId": "00012",
+      "customerId": "00101",
+      "orderDate": "2024-11-19T17:25:42.334Z",
+      "quantity": 234,
+      "size": "234",
+      "price": "234",
+      "lastDate": "2024-11-29",
+      "status": "inprogress"
+    },
+    {
+      "id": "04",
+      "orderId": "00013",
+      "customerId": "00102",
+      "orderDate": "2024-11-19T17:59:56.418Z",
+      "quantity": 45,
+      "size": "7",
+      "price": "7",
+      "lastDate": "2024-11-23",
+      "status": "inprogress"
+    }
+  ]
+}
